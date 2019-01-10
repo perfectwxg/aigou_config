@@ -4,4 +4,4 @@ server:
 #ÅäÖÃ·şÎñÃû³Æ
 spring:
   application:
-    name: aigou-plat
+    name: aigou-plat-dev
