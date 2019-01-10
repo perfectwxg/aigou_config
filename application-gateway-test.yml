@@ -2,7 +2,7 @@
   port: 9988
 spring:
   application:
-    name: zuul-gateway-dev
+    name: zuul-gateway-test
 zuul:
   routes:
     plat.serviceId: aigou-plat #这是调用满足条件的服务名，注意要小写
